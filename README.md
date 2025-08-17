@@ -7,7 +7,3 @@ TCP Three-Way Handshake Simulator
 
 Gereksinimler
 - Python 3.x
-
-<img width="1920" height="1080" alt="tcp_ss" src="https://github.com/user-attachments/assets/d392014a-1759-4fa9-a4b0-cc01254b4b4b" />
-
-
